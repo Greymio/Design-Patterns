@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\IDal\bin\Debug\IDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\IDal\bin\Debug\IDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\IDal\obj\Debug\IDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\IDal\obj\Debug\IDal.pdb
+D:\sandbox\CustomerLibrary\IDal\bin\Debug\IDal.dll
+D:\sandbox\CustomerLibrary\IDal\bin\Debug\IDal.pdb
+D:\sandbox\CustomerLibrary\IDal\obj\Debug\IDal.csprojResolveAssemblyReference.cache
+D:\sandbox\CustomerLibrary\IDal\obj\Debug\IDal.dll
+D:\sandbox\CustomerLibrary\IDal\obj\Debug\IDal.pdb

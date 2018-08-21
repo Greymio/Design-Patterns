@@ -1,0 +1,22 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\bin\Debug\AbstractDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\bin\Debug\AbstractDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\bin\Debug\ICustomerInterface.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\bin\Debug\IDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\bin\Debug\ICustomerInterface.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\bin\Debug\IDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\obj\Debug\AbstractDal.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\obj\Debug\AbstractDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\obj\Debug\AbstractDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\bin\Debug\Stratergy.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CoolProjectPhase1\CustomerLibrary\AbstractDal\bin\Debug\Stratergy.pdb
+D:\sandbox\CustomerLibrary\AbstractDal\bin\Debug\AbstractDal.dll
+D:\sandbox\CustomerLibrary\AbstractDal\bin\Debug\AbstractDal.pdb
+D:\sandbox\CustomerLibrary\AbstractDal\bin\Debug\ICustomerInterface.dll
+D:\sandbox\CustomerLibrary\AbstractDal\bin\Debug\IDal.dll
+D:\sandbox\CustomerLibrary\AbstractDal\bin\Debug\Stratergy.dll
+D:\sandbox\CustomerLibrary\AbstractDal\bin\Debug\ICustomerInterface.pdb
+D:\sandbox\CustomerLibrary\AbstractDal\bin\Debug\IDal.pdb
+D:\sandbox\CustomerLibrary\AbstractDal\bin\Debug\Stratergy.pdb
+D:\sandbox\CustomerLibrary\AbstractDal\obj\Debug\AbstractDal.csprojResolveAssemblyReference.cache
+D:\sandbox\CustomerLibrary\AbstractDal\obj\Debug\AbstractDal.dll
+D:\sandbox\CustomerLibrary\AbstractDal\obj\Debug\AbstractDal.pdb
